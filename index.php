@@ -19,7 +19,7 @@
 <html lang="ca">
     <head>
         <meta charset="UTF-8">
-        <title>Formulari Login PHP</title>
+        <title>Formulari Login</title>
         <link href="style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
