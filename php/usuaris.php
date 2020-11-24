@@ -15,7 +15,7 @@
         ),
         "usuari4" => array(
             "email" => 'gon@educem.com',
-            "password" => convertir_hash('Fatality')
+            "password" => convertir_hash('Fatality!')
         )
     ));
 
