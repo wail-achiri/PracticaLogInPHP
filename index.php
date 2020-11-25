@@ -51,7 +51,7 @@
         </div>
         <button type="submit">Enviar</button>
         <p class="oblidat">T'has oblidat la contrasenya?<a href="https://educem.net/moodle/login/forgot_password.php"> Recuperar</a></p>
-        <?php echo "<p class='alerta'>$errors</p>"///NOTE mostrem els errors al login?>
+        <?php if(isset($errors))echo "<p class='alerta'>$errors</p>"///NOTE mostrem els errors al login?>
     </form>
         <script src="./js/codificar.js"></script>
     </body>
